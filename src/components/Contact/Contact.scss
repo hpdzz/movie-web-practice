@@ -1,0 +1,11 @@
+$padding: 100px;
+$height: 200px;
+$width: 1000px;
+form {
+  display: flex;
+  flex-direction: column;
+  // border: 10px solid black;
+  padding: $padding;
+  // width: $width;
+  // height: $height;
+}
